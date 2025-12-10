@@ -1,2 +1,0 @@
-# wire
-Lalaz Wire
